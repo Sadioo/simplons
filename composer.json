@@ -1,0 +1,16 @@
+{
+    "name": "auf/aufmvc",
+    "description": "SamaneMVC is a PHP Framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aufframework",
+            "email": "ndeye-sadio.diop@ism.edu.sn"
+        }
+    ],
+    "minimum-stability": "dev",
+       "require": {
+           "smarty/smarty": "~3.1"
+    }
+}
